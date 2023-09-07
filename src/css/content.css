@@ -1,0 +1,25 @@
+.outlet-container {
+    display: flex;
+    height: 95vh;
+}
+.content-container {
+    width: 80%;
+    border-right: 1px solid lightgray;
+}
+.breadcrumb {
+    width: 100%;
+    padding: 1rem;
+}
+.search-container {
+    width: 100%;
+    padding-left: 1rem;
+}
+.content-node {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.preview-container {
+    padding: 1rem;
+    width: 20%;
+}
